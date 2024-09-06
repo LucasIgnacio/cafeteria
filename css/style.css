@@ -1,0 +1,38 @@
+
+.container-banner-topo {
+    width: 100%;
+    
+}
+
+.container-titulo {
+    background-image: url(img/parallax-imagem1.png);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;   
+}
+
+.container-titulo h1 {
+    top: 45%;
+    left: 0;
+    right: 0;
+    font-size: 100px;
+    font-family: 'Fraunces', serif;
+    color: #fff;
+    text-align: center;
+    position: absolute;
+}
+
+.container-imagem-parallax2 {
+    background-image: url("img/parallax-imagem2.jpg");
+    height: 50vh;
+}
+
+.container-imagem-parallax2 h3 {
+    top: 45%;
+    right: 0;
+    left: 0;
+    width: 500px;
+    padding: 10px;
+}
+
+
